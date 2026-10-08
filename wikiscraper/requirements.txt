@@ -1,0 +1,8 @@
+beautifulsoup4
+pandas
+requests
+matplotlib
+pytest
+types-requests
+types-beautifulsoup4
+wordfreq
